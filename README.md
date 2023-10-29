@@ -1,5 +1,7 @@
 ### Suspeakan, Personal Website
 
+https://suspeakan.github.io/suspeakan/index.html
+
 - Currently only page accesible is to help me keep track of the Dmitri Shostakovich works I've listened to.
 - I love listening to music,
   - last.fm/user/suspeakan
