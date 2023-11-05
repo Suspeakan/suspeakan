@@ -1,4 +1,4 @@
-### Suspeakan, Personal Website
+### Suspeakan
 
 https://suspeakan.github.io/suspeakan/index.html
 
