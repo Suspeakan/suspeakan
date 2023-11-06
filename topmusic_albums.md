@@ -1,5 +1,7 @@
 # My Top Albums
 
+This list was not made in direct accordance with my RateYourMusic account (https://rateyourmusic.com/~Suspeakan)
+
 This list will be unordered, as trying to chose between masterpieces proves to, in most cases, just be a waste of time. So, there is no "best", but an "among the best"/"one of the best". Albums will be presented with the album name first, in italics, and then the artist or band afterwords. "[LIVE\]" will be used to denote a live album. For most of the albums, I have listened to them a lot, but some less so; and may have significant low points that causes them not to have a 5/5 rating on RYM, such as _Piano Man_ by **Billy Joel**, half the tracks are phenomal, and the rest I care little for, but it still deserves to go on here. Some albums have emotional significance or a track I have listened to a lot, like _Loveless_ (**My Bloody Valentie**) (occasionally very powerful emotional connection, yet still very good, so it gets on the list) and _The Beggar_ (**Swans**) (because of the track _Ebbing_, my most listened to track).
 ## The List
 
@@ -22,7 +24,9 @@ This list will be unordered, as trying to chose between masterpieces proves to, 
 * Crooked Rain, Crooked Rain — Pavement
 * _Golevka_ — The Evpatoria Report
 * _Remember the Future_ — Nektar
-* Takk... — Sigur Rós
+* _Takk..._ — Sigur Rós
+* _Marvin's Marvelous Mechanical Museum_ — Tally Hall
+* __
 
 ### Honorable Mentions
 
@@ -36,7 +40,7 @@ Section for albums with only one or two very good or meaninful tracks that don't
 * _Ágætis byrjun_ — Sigur Rós
 * _leaving meaning._ — Swans
 * _Horses in the Sky_ — A Silver Mt. Zion
-* 
+* _Skitzofrenia Simulation_ — Sewerslvt (despise them)
 
 ---
 
@@ -58,8 +62,8 @@ Everything album here is phenomenal, and are a part of the list, but they get th
 
 * _The Beggar_ 
 * _The Great Annihilator_ 
-* _Children of God / World of Skin_ [LIVE\]
-* _Swans Are Dead: Live '95-'97_ [LIVE\]
+* _Children of God / World of Skin_ 
+* _Swans Are Dead_ 
 
 ### 神聖かまってちゃん [Shinsei Kamattechan\] 
 
@@ -73,7 +77,7 @@ One of my top bands ever!
 
 * _Lift Yr. Skinny Fists Like Antennas to Heaven!_ 
 * _Luciferian Towers_ 
-* _Lift Yr. Skinny Fists Like Antennas to Heaven!_
+* _Yanqui UXO_
 
 ### MGMT
 
