@@ -5,6 +5,8 @@ This list was not made in direct accordance with my RateYourMusic account (https
 This list will be unordered, as trying to chose between masterpieces proves to, in most cases, just be a waste of time. So, there is no "best", but an "among the best"/"one of the best". Albums will be presented with the album name first, in italics, and then the artist or band afterwords. "[LIVE\]" will be used to denote a live album. For most of the albums, I have listened to them a lot, but some less so; and may have significant low points that causes them not to have a 5/5 rating on RYM, such as _Piano Man_ by **Billy Joel**, half the tracks are phenomal, and the rest I care little for, but it still deserves to go on here. Some albums have emotional significance or a track I have listened to a lot, like _Loveless_ (**My Bloody Valentie**) (occasionally very powerful emotional connection, yet still very good, so it gets on the list) and _The Beggar_ (**Swans**) (because of the track _Ebbing_, my most listened to track).
 ## The List
 
+
+* _Come In_ — Weatherday
 * _Every Red Heart Shines Towards the Red Sun_ — Red Sparrows
 * _At the Soundless Dawn_ — Red Sparrows
 * _ULTRAKILL: INFINITE HYPERDEATH_ — Heaven Pierce Her
