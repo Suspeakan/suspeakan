@@ -51,6 +51,9 @@ border-bottom: 1px solid black;
     font-style: italic;
     text-align: center;
 }
+.small {
+    font-size: 12px;
+  }
 .entry {
     display: flex;
     justify-content: space-between;

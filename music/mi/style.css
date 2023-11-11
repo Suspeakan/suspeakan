@@ -229,3 +229,7 @@ body, h2, p {
     vertical-align: top; /* To align boxes at the top */
     box-sizing: border-box; /* Include padding and border in the width */
   }
+
+  .small {
+    font-size: 10px;
+  }
