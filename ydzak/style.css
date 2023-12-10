@@ -1,6 +1,7 @@
 body, h1, h2, p {
     margin: 0;
     padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
   }
   
   /* Set a background color and text color */
@@ -114,8 +115,47 @@ body, h1, h2, p {
   
   .column {
     flex: 33.33%;
-    padding: 5px;
+    padding: 10px;
+    text-align: justify;
+    font-size: 17px;
+    border: 2px;
+    border-color: black;
   }
+
+  .alternspan {
+    font-size: 15px;
+    color: red;
+    font-weight: bold;
+  }
+
+  .highlight {
+    background-color: yellow;
+  }
+  .spanfix {
+    font-family: Arial, Helvetica, sans-serif 
+  }
+  .centerimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+  .sidebar {
+    position: fixed;
+    top: 50px; /* Adjust as needed */
+    left: 26px; /* Adjust as needed */
+    width: 200px;
+    height: 500px;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  .sidebar p {
+    font-size: 20px;
+    font-style: italic;
+  }
+
 
   /*
  D:Page Template
